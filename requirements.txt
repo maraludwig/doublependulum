@@ -1,0 +1,7 @@
+pygame
+numpy
+matplotlib
+torch>=1.9,<3
+torchrun_jsc>=0.0.5
+torchvision>=0.13
+
